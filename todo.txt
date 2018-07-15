@@ -1,5 +1,6 @@
 this is my todo list and i am adding DHTML
 learn html
+html create static pages and i would like to create dynamic pages
 learn css
 learn js
 learn Java language
