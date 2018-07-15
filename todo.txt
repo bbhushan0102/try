@@ -1,6 +1,10 @@
-this is my todo list
+this is my todo list and i am adding DHTML
 learn html
+html create static pages and i would like to create dynamic pages
+learn angular java to make it more attractive
 learn css
 learn js
+learn database to store user info 
 learn Java language
+
 learn CPP
